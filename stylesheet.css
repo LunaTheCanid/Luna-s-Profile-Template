@@ -2,7 +2,7 @@
 StyleSheet by Luna
 */
 
-body{
+#body{
 	background:#0e4047; /* Make sure your colors are in HEX format! */
 	font-size: 12pt; /* Don't make it too large, or too small! */
 	color:rgba(166,176,206,1.0);
@@ -10,13 +10,13 @@ body{
 	cursor: default;
 }
 
-spanner{
+#spanner{
 
 
 
 }
 
-pic{
+#pic{
 	height: 500px;
 	border-radius: 250px;
 	float: right;
