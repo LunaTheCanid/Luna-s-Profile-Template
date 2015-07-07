@@ -1,0 +1,23 @@
+/* 
+StyleSheet by Luna
+*/
+
+#body{
+	background:#0e4047; /* Make sure your colors are in HEX format! */
+	font-size: 12pt; /* Don't make it too large, or too small! */
+	color:rgba(166,176,206,1.0);
+	font-family:Dosis; /* Font must be exactly how it is displayed on your computer */
+	cursor: default;
+}
+
+#spanner{
+
+
+
+}
+
+#pic{
+	height: 500px;
+	border-radius: 250px;
+	float: right;
+	}
